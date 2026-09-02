@@ -7,7 +7,8 @@ new Typed(".typing", {
         "Data Processing Associate",
         "Senior Grade Typist (Distinction)",
         "SLA & Workflow Specialist",
-        "Administrative Coordinator"
+        "Administrative Coordinator",
+        "HTML5 & CSS3"
     ],
     typeSpeed: 70,
     backSpeed: 50,
