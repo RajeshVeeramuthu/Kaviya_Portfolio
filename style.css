@@ -587,6 +587,28 @@ p {
   color: var(--white);
 }
 
+.html5-skill:hover {
+  background: linear-gradient(135deg, #f26527, #e06b38);
+  border-color: rgba(12, 122, 76, 0.4);
+  color: var(--white);
+}
+
+.html5-skill:hover i,
+.html5-skill:hover h6 {
+  color: var(--white);
+}
+
+.css3-skill:hover {
+  background: linear-gradient(135deg, #234dda, #2962e8);
+  border-color: rgba(12, 122, 76, 0.4);
+  color: var(--white);
+}
+
+.css3-skill:hover i,
+.css3-skill:hover h6 {
+  color: var(--white);
+}
+
 #certifications .row {
   --bs-gutter-y: 1.5rem;
 }
